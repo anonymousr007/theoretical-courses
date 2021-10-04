@@ -1,2 +1,1 @@
-# osf-hackillinois
-Hackillinois - Open Source Fellowship
+# Hackillinois - Open Source Fellowship
