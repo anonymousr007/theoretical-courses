@@ -8,8 +8,8 @@
 ```
 - cirq-core/setup.py
 - cirq-core/cirq/_version.py
-- cirq-core/cirq/contrib/quimb/state_vector.py
 - cirq-core/cirq/__init__.py
+- cirq-core/cirq/contrib/quimb/state_vector.py
 - cirq-core/cirq/circuits/circuit_test.py
 - cirq-core/cirq/circuits/circuit.py
 ```
