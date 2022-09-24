@@ -9,10 +9,16 @@
 
 ### [Daniel Gottesman]()
 
-### Algorithms
+### Data Structures and Algorithms
 
 - [MIT 6.006 Introduction to Algorithms, Fall 2011](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
 - [MIT 6.046J Design and Analysis of Algorithms, Spring 2015](https://www.youtube.com/playlist?list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp)
 - [MIT 6.854 (Advanced Algorithms), Spring 2016](https://www.youtube.com/playlist?list=PL6ogFv-ieghdoGKGg2Bik3Gl1glBTEu8c) - [[Website]]()
 - [MIT 6.851 Advanced Data Structures, Spring 2012](https://www.youtube.com/playlist?list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf) - [[Website]](https://ocw.mit.edu/courses/6-851-advanced-data-structures-spring-2012/)
 - [Harvard University - Advanced Algorithms (COMPSCI 224)](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf)
+
+### Quantum Mechanics - Prof. Barton Zwiebach
+
+- [MIT 8.04 Quantum Physics I, Spring 2016](https://www.youtube.com/playlist?list=PLUl4u3cNGP60cspQn3N9dYRPiyVWDd80G)
+- [MIT 8.05 Quantum Physics II, Fall 2013](https://www.youtube.com/playlist?list=PLUl4u3cNGP60QlYNsy52fctVBOlk-4lYx)
+- [MIT 8.06 Quantum Physics III, Spring 2018](https://www.youtube.com/playlist?list=PLUl4u3cNGP60Zcz8LnCDFI8RPqRhJbb4L)
