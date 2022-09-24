@@ -28,7 +28,11 @@
 - [Frederic Schuller - Lectures on Geometrical Anatomy of Theoretical Physics](https://www.youtube.com/playlist?list=PLPH7f_7ZlzxTi6kS4vCmv4ZKm9u8g5yic)
 - [MIT 6.042J Mathematics for Computer Science, Fall 2010](https://www.youtube.com/playlist?list=PLB7540DEDD482705B)
 
-### ICTP Mathematics - Diploma
+### ICTP Mathematics - Diploma 
+
+---
+- Channel - ICTP Postgraduate Diploma Program - https://www.youtube.com/channel/UCBlqfZZYQWKyr6qLAB7LINw
+---
 
 - [ICTP Diploma - Differential Geometry - Claudio Arezzo](https://www.youtube.com/playlist?list=PLLq_gUfXAnkl5JArcktbOrIUeR5rra-Gz)
 - [ICTP Diploma - Abstract Algebra - Lothar Göttsche](https://www.youtube.com/playlist?list=PLLq_gUfXAnknLXjNSnKKLT4LI1AfTy9PS)
@@ -40,7 +44,6 @@
 - [ICTP Diploma - Topology - Bruno Zimmermann](https://www.youtube.com/playlist?list=PLLq_gUfXAnkl8bjQh-hGQ9u24xZP9x0dx)
 - [ICTP Diploma - Partial Differential Equations - Giovanni Bellettini](https://www.youtube.com/playlist?list=PLLq_gUfXAnkkvL_UoCGivS0wOYhwCtczI)
 - [ICTP Diploma - Algebraic Geometry - Lothar Göttsche](https://www.youtube.com/playlist?list=PLLq_gUfXAnkkeQKfjfWwyJP8eUV08Kygd)
-- 
 
 
 
