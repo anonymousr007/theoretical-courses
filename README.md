@@ -19,6 +19,44 @@
 
 ### Quantum Mechanics - Prof. Barton Zwiebach
 
+#### Youtube Playlist
+
 - [MIT 8.04 Quantum Physics I, Spring 2016](https://www.youtube.com/playlist?list=PLUl4u3cNGP60cspQn3N9dYRPiyVWDd80G)
 - [MIT 8.05 Quantum Physics II, Fall 2013](https://www.youtube.com/playlist?list=PLUl4u3cNGP60QlYNsy52fctVBOlk-4lYx)
 - [MIT 8.06 Quantum Physics III, Spring 2018](https://www.youtube.com/playlist?list=PLUl4u3cNGP60Zcz8LnCDFI8RPqRhJbb4L)
+- [Frederic Schuller - Lectures on Quantum Theory](https://www.youtube.com/playlist?list=PLPH7f_7ZlzxQVx5jRjbfRGEzWY_upS5K6)
+- [Frederic Schuller - Lectures on Geometrical Anatomy of Theoretical Physics](https://www.youtube.com/playlist?list=PLPH7f_7ZlzxTi6kS4vCmv4ZKm9u8g5yic)
+- [MIT 6.042J Mathematics for Computer Science, Fall 2010](https://www.youtube.com/playlist?list=PLB7540DEDD482705B)
+
+### ICTP Mathematics - Diploma
+
+- [ICTP Diploma - Differential Geometry - Claudio Arezzo](https://www.youtube.com/playlist?list=PLLq_gUfXAnkl5JArcktbOrIUeR5rra-Gz)
+- [ICTP Diploma - Abstract Algebra - Lothar Göttsche](https://www.youtube.com/playlist?list=PLLq_gUfXAnknLXjNSnKKLT4LI1AfTy9PS)
+- [ICTP Diploma - Algebraic Topology - Fernando Rodriguez Villegas](https://www.youtube.com/playlist?list=PLLq_gUfXAnkkdRttylq7Svmob1gxDgcDZ)
+- [ICTP Diploma - Complex Analysis - Fabio Vlacci](https://www.youtube.com/playlist?list=PLLq_gUfXAnkk_krlZvRFQnpZUIw2E_kiX)
+- [ICTP Diploma - Dynamical Systems - Stefano Luzzatto](https://www.youtube.com/playlist?list=PLLq_gUfXAnkmC-VWIJ_HW8cdOZLEtHfXJ)
+- [ICTP Diploma - Real Analysis - Eva Sincich](https://www.youtube.com/playlist?list=PLLq_gUfXAnknTQofOxC3WpseyusORewKB)
+- [ICTP Diploma - Ergodic Theory - Stefano Luzzatto](https://www.youtube.com/playlist?list=PLLq_gUfXAnknPu2yX0RR_nlHzohmko_t9)
+- [ICTP Diploma - Topology - Bruno Zimmermann](https://www.youtube.com/playlist?list=PLLq_gUfXAnkl8bjQh-hGQ9u24xZP9x0dx)
+- [ICTP Diploma - Partial Differential Equations - Giovanni Bellettini](https://www.youtube.com/playlist?list=PLLq_gUfXAnkkvL_UoCGivS0wOYhwCtczI)
+- [ICTP Diploma - Algebraic Geometry - Lothar Göttsche](https://www.youtube.com/playlist?list=PLLq_gUfXAnkkeQKfjfWwyJP8eUV08Kygd)
+- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
